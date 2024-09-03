@@ -11,9 +11,10 @@
 | (5/5) checklist                    | [![workflow cii badge](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
 | howfairis                          | [![fair-software badge](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B-yellow)](https://fair-software.eu) |
 | **Other best practices**           | &nbsp; |
-| **GitHub Actions**                 | &nbsp; |
+| Static analysis                    | [![workflow scq badge](https://sonarcloud.io/api/project_badges/measure?project=fcooper8472_baklava&metric=alert_status)](https://sonarcloud.io/dashboard?id=fcooper8472_baklava) |
+| Coverage                           | [![workflow scc badge](https://sonarcloud.io/api/project_badges/measure?project=fcooper8472_baklava&metric=coverage)](https://sonarcloud.io/dashboard?id=fcooper8472_baklava) || Documentation                      | [![Documentation Status](https://readthedocs.org/projects/baklava/badge/?version=latest)](https://baklava.readthedocs.io/en/latest/?badge=latest) || **GitHub Actions**                 | &nbsp; |
 | Build                              | [![build](https://github.com/fcooper8472/baklava/actions/workflows/build.yml/badge.svg)](https://github.com/fcooper8472/baklava/actions/workflows/build.yml) |
-## How to use baklava
+| SonarCloud                         | [![sonarcloud](https://github.com/fcooper8472/baklava/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/fcooper8472/baklava/actions/workflows/sonarcloud.yml) || Link checker              | [![link-check](https://github.com/fcooper8472/baklava/actions/workflows/link-check.yml/badge.svg)](https://github.com/fcooper8472/baklava/actions/workflows/link-check.yml) |## How to use baklava
 
 Delicious treat
 
@@ -33,7 +34,10 @@ python -m pip install .
 
 Include a link to your project's full documentation here.
 
+## Contributing
 
+If you want to contribute to the development of baklava,
+have a look at the [contribution guidelines](CONTRIBUTING.md).
 
 ## Credits
 
