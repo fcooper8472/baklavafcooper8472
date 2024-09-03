@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/nlesc/python-template.git
+copyright_holder: University of Oxford
+email: fcooper8472@gmail.com
+full_name: Fergus Cooper
+github_organization: fcooper8472
+keywords: ''
+license: MIT
+package_name: baklava
+package_short_description: Delicious treat
+template_profile: minimum
+version: 0.1.0
