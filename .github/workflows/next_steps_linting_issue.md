@@ -2,9 +2,9 @@
 title: 'Next step: Linting'
 ---
 
-Your repository has a [workflow](https://github.com/fcooper8472/baklava/blob/main/.github/workflows/build.yml) which [lints](https://en.wikipedia.org/wiki/Lint_(software)) your code after every push and when creating a pull request.
+Your repository has a [workflow](https://github.com/fcooper8472/baklavafcooper8472/blob/main/.github/workflows/build.yml) which [lints](https://en.wikipedia.org/wiki/Lint_(software)) your code after every push and when creating a pull request.
 
-Linter workflow may fail if `description` or `keywords` field in [pyproject.toml](https://github.com/fcooper8472/baklava/blob/main/pyproject.toml) is empty. Please update these fields. To validate your changes run:
+Linter workflow may fail if `description` or `keywords` field in [pyproject.toml](https://github.com/fcooper8472/baklavafcooper8472/blob/main/pyproject.toml) is empty. Please update these fields. To validate your changes run:
 
 ```shell
 ruff .

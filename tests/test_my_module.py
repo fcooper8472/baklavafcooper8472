@@ -1,7 +1,7 @@
-"""Tests for the baklava.my_module module."""
+"""Tests for the baklavafcooper8472.my_module module."""
 
 import pytest
-from baklava.my_module import hello
+from baklavafcooper8472.my_module import hello
 
 
 def test_hello():

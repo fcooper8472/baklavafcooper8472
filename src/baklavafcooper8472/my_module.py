@@ -1,4 +1,4 @@
-"""Documentation about the baklava module."""
+"""Documentation about the baklavafcooper8472 module."""
 
 
 # FIXME: put actual code here
@@ -19,7 +19,7 @@ def hello(name: str) -> str:
     Example:
         This function can be called with `Jane Smith` as argument using
 
-        >>> from baklava.my_module import hello
+        >>> from baklavafcooper8472.my_module import hello
         >>> hello('Jane Smith')
         'Hello Jane Smith!'
 

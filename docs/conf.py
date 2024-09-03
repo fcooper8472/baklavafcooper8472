@@ -17,8 +17,13 @@
 
 # -- Project information -----------------------------------------------------
 
+<<<<<<< before updating
 project = u"baklava"
 copyright = u"2024-09-03 14:06:22, University of Oxford"
+=======
+project = u"baklavafcooper8472"
+copyright = u"2024-09-03 14:07:46, University of Oxford"
+>>>>>>> after updating
 author = u"Fergus Cooper"
 
 # The version info for the project you're documenting, acts as replacement for
@@ -61,7 +66,7 @@ todo_include_todos = False
 
 # -- Use autoapi.extension to run sphinx-apidoc -------
 
-autoapi_dirs = ['../src/baklava']
+autoapi_dirs = ['../src/baklavafcooper8472']
 
 # -- Options for HTML output ----------------------------------------------
 

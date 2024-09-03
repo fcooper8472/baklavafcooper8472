@@ -4,17 +4,17 @@
 
 | fair-software.eu recommendations | |
 | :-- | :--  |
-| (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/fcooper8472/baklava) |
-| (2/5) license                      | [![github license badge](https://img.shields.io/github/license/fcooper8472/baklava)](https://github.com/fcooper8472/baklava) |
-| (3/5) community registry           | [![RSD](https://img.shields.io/badge/rsd-baklava-00a3e3.svg)](https://www.research-software.nl/software/baklava) [![workflow pypi badge](https://img.shields.io/pypi/v/baklava.svg?colorB=blue)](https://pypi.python.org/project/baklava/) |
+| (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/fcooper8472/baklavafcooper8472) |
+| (2/5) license                      | [![github license badge](https://img.shields.io/github/license/fcooper8472/baklavafcooper8472)](https://github.com/fcooper8472/baklavafcooper8472) |
+| (3/5) community registry           | [![RSD](https://img.shields.io/badge/rsd-baklavafcooper8472-00a3e3.svg)](https://www.research-software.nl/software/baklavafcooper8472) [![workflow pypi badge](https://img.shields.io/pypi/v/baklavafcooper8472.svg?colorB=blue)](https://pypi.python.org/project/baklavafcooper8472/) |
 | (4/5) citation                     | |
 | (5/5) checklist                    | [![workflow cii badge](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
 | howfairis                          | [![fair-software badge](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B-yellow)](https://fair-software.eu) |
 | **Other best practices**           | &nbsp; |
-| Static analysis                    | [![workflow scq badge](https://sonarcloud.io/api/project_badges/measure?project=fcooper8472_baklava&metric=alert_status)](https://sonarcloud.io/dashboard?id=fcooper8472_baklava) |
-| Coverage                           | [![workflow scc badge](https://sonarcloud.io/api/project_badges/measure?project=fcooper8472_baklava&metric=coverage)](https://sonarcloud.io/dashboard?id=fcooper8472_baklava) || Documentation                      | [![Documentation Status](https://readthedocs.org/projects/baklava/badge/?version=latest)](https://baklava.readthedocs.io/en/latest/?badge=latest) || **GitHub Actions**                 | &nbsp; |
-| Build                              | [![build](https://github.com/fcooper8472/baklava/actions/workflows/build.yml/badge.svg)](https://github.com/fcooper8472/baklava/actions/workflows/build.yml) |
-| SonarCloud                         | [![sonarcloud](https://github.com/fcooper8472/baklava/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/fcooper8472/baklava/actions/workflows/sonarcloud.yml) || Link checker              | [![link-check](https://github.com/fcooper8472/baklava/actions/workflows/link-check.yml/badge.svg)](https://github.com/fcooper8472/baklava/actions/workflows/link-check.yml) |## How to use baklava
+| Static analysis                    | [![workflow scq badge](https://sonarcloud.io/api/project_badges/measure?project=fcooper8472_baklavafcooper8472&metric=alert_status)](https://sonarcloud.io/dashboard?id=fcooper8472_baklavafcooper8472) |
+| Coverage                           | [![workflow scc badge](https://sonarcloud.io/api/project_badges/measure?project=fcooper8472_baklavafcooper8472&metric=coverage)](https://sonarcloud.io/dashboard?id=fcooper8472_baklavafcooper8472) || Documentation                      | [![Documentation Status](https://readthedocs.org/projects/baklavafcooper8472/badge/?version=latest)](https://baklavafcooper8472.readthedocs.io/en/latest/?badge=latest) || **GitHub Actions**                 | &nbsp; |
+| Build                              | [![build](https://github.com/fcooper8472/baklavafcooper8472/actions/workflows/build.yml/badge.svg)](https://github.com/fcooper8472/baklavafcooper8472/actions/workflows/build.yml) |
+| SonarCloud                         | [![sonarcloud](https://github.com/fcooper8472/baklavafcooper8472/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/fcooper8472/baklavafcooper8472/actions/workflows/sonarcloud.yml) || Link checker              | [![link-check](https://github.com/fcooper8472/baklavafcooper8472/actions/workflows/link-check.yml/badge.svg)](https://github.com/fcooper8472/baklavafcooper8472/actions/workflows/link-check.yml) |## How to use baklavafcooper8472
 
 Delicious treat
 
@@ -22,11 +22,11 @@ The project setup is documented in [project_setup.md](project_setup.md). Feel fr
 
 ## Installation
 
-To install baklava from GitHub repository, do:
+To install baklavafcooper8472 from GitHub repository, do:
 
 ```console
-git clone git@github.com:fcooper8472/baklava.git
-cd baklava
+git clone git@github.com:fcooper8472/baklavafcooper8472.git
+cd baklavafcooper8472
 python -m pip install .
 ```
 
@@ -36,7 +36,7 @@ Include a link to your project's full documentation here.
 
 ## Contributing
 
-If you want to contribute to the development of baklava,
+If you want to contribute to the development of baklavafcooper8472,
 have a look at the [contribution guidelines](CONTRIBUTING.md).
 
 ## Credits
